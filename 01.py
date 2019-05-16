@@ -14,3 +14,5 @@ aaa = 1
 
 cc = 10
 
+dd =  aaa + cc
+print(dd)
