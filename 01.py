@@ -16,3 +16,5 @@ cc = 10
 
 dd =  aaa + cc
 print(dd)
+
+print("*"* 20)

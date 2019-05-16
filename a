@@ -1,0 +1,54 @@
+[33mcommit 5803dd341823d09f3730b63b4a0c371a4e53314b[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: lisi <lisi@qq.com>
+Date:   Thu May 16 16:39:35 2019 +0800
+
+    添加了参数dd
+
+[33mcommit fe199eb6c3f790cc6159763193b5dd38fb79342c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: af26bd9 a0ae55b
+Author: 经理 <jingli@qq.com>
+Date:   Thu May 16 16:18:48 2019 +0800
+
+    冲突已修正
+
+[33mcommit af26bd9e26ebf32dc629ca12016f1baaba159866[m
+Author: 经理 <jingli@qq.com>
+Date:   Thu May 16 16:15:38 2019 +0800
+
+    添加了参数aaa
+
+[33mcommit a0ae55b518964787c3da80ace67b402d4f8de8c9[m
+Author: lisi <lisi@qq.com>
+Date:   Thu May 16 16:15:14 2019 +0800
+
+    添加了参数cc
+
+[33mcommit f5715a674189543b9cd4deffe1f43068e825e4c4[m
+Author: 经理 <jingli@qq.com>
+Date:   Thu May 16 16:05:11 2019 +0800
+
+    添加了参数A
+
+[33mcommit 4d635bbe5f055edf3456eef1472c66de565bad1e[m
+Author: lisi <lisi@qq.com>
+Date:   Thu May 16 16:01:28 2019 +0800
+
+    添加了参数i
+
+[33mcommit adfa34d31e2dd6f3e9c2c7cf50c46cdb12ec049a[m
+Author: lisi <lisi@qq.com>
+Date:   Thu May 16 15:54:25 2019 +0800
+
+    bug修改
+
+[33mcommit f6d2d961ed9fc22363bdc512af11b19920c3342b[m
+Author: 经理 <jingli@qq.com>
+Date:   Thu May 16 15:44:47 2019 +0800
+
+    初始化
+
+[33mcommit ee928882c513c30ae76ba261e6839f733ebb40ef[m
+Author: aaLiuQ <50685431+aaLiuQ@users.noreply.github.com>
+Date:   Thu May 16 15:19:21 2019 +0800
+
+    Initial commit
